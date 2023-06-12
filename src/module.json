@@ -3,6 +3,7 @@
 	"title": "Scene Transitions",
 	"description": "Create transition between scenes. Or show a Slide from a Journal or Macro for Narration",
 	"version": "0.4.12",
+    "author": "p4535992",
 	"authors": [
 		{
 			"name": "DM_miX",
